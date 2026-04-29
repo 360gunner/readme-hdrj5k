@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://360gunner.github.io/readme-hdrj5k/sitemap.xml
